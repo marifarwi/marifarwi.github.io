@@ -10,5 +10,5 @@ While maneuvering her way in the field, she worked on the ‘Care Water Closet�
 
 Her work is driven by dismantling normative approaches to architecture, stretching to the architecture of genes, architecting perceptions and bodily experiences. She exhibited and worked in different environments in the Netherlands such as: Dutch Design Week, Fiber Festival, Stedelijk museum, Salwa Foundation, KABK and others. Currently she is part of the Biohacking Academy at WAAG Instituut in Amsterdam, stimulating her work as a ‘Hachitect’.
 
-<a href="https://maryfarwy.com/">www.maryfarwy.com</a>
+<a href="https://maryfarwy.com/" target="_blank">www.maryfarwy.com</a>
 

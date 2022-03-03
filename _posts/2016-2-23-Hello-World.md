@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-# Hachitect
+# Bio Hacking Academy blog 2022
 
 ## Subtitle
 

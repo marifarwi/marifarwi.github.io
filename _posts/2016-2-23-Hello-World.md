@@ -7,7 +7,7 @@ title: Hello Worlds
 
 ## Subtitle
 
-This is my first post, so keep posted.
+This is my first post, so stay posted.
 
 **bold**
 

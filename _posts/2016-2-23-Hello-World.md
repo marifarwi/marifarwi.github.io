@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hello World
+title: Hello Worlds
 ---
 
 # Bio Hacking Academy blog 2022
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+This is my first post, so keep posted.
 
 **bold**
 

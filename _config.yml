@@ -9,14 +9,14 @@ name: mari farwi
 description: BioHack Academy blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: file:///Users/maryfarwy/Downloads/IMG_2871.JPG
+avatar: https://i.postimg.cc/nc6BP3y0/IMG-2871.jpg
 
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: https://maryfarwy.com/
   dribbble: 
   email: mary@maryfarwy.com
   facebook: 
